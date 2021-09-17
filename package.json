@@ -1,0 +1,37 @@
+{
+  "name": "mdb-react-vector-maps",
+  "version": "1.0.0",
+  "main": "./dist/mdb-react-vector-maps.js",
+  "module": "./dist/mdb-react-vector-maps.esm.js",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://git.mdbootstrap.com/mdb/react/mdb5/plugins/prd/vector-maps.git"
+  },
+  "homepage": "https://mdbootstrap.com/",
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "design",
+    "javascript",
+    "kit",
+    "material design",
+    "mdbootstrap",
+    "react-component",
+    "react",
+    "scss",
+    "ui-kit",
+    "ui"
+  ],
+  "author": "MDBootstrap",
+  "license": "SEE LICENSE IN <license.pdf>",
+  "bugs": {
+    "url": "https://git.mdbootstrap.com/mdb/react/mdb5/prd/mdb5-react-ui-kit-pro-essential/issues"
+  }
+}
