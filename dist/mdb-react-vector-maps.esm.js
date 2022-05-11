@@ -1985,7 +1985,7 @@ var c = {
           "div",
           i(
             {
-              className: "vector-map-tooltip ".concat(xe && "show"),
+              className: "vector-map-tooltip ".concat(xe && ""),
               ref: Be,
               style: qe.popper,
             },
@@ -1998,7 +1998,7 @@ var c = {
           "div",
           i(
             {
-              className: "vector-map-tooltip ".concat(Ve && "show"),
+              className: "vector-map-tooltip ".concat(Ve && ""),
               ref: Oe,
               style: _e.popper,
             },

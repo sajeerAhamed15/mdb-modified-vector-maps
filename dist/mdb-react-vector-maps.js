@@ -1987,7 +1987,7 @@ var r = {
           "div",
           n(
             {
-              className: "vector-map-tooltip ".concat(Ce && "show"),
+              className: "vector-map-tooltip ".concat(Ce && ""),
               ref: ge,
               style: Ye.popper,
             },
@@ -2000,7 +2000,7 @@ var r = {
           "div",
           n(
             {
-              className: "vector-map-tooltip ".concat(Fe && "show"),
+              className: "vector-map-tooltip ".concat(Fe && ""),
               ref: we,
               style: je.popper,
             },
