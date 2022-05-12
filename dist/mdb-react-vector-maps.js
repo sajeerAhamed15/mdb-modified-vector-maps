@@ -1499,7 +1499,7 @@ var r = {
             (d.classList.add("animated-circle"),
             (d.innerHTML = '<animate attributeName="r" values="'
               .concat(n, ";")
-              .concat(5 * n, ";")
+              .concat(2 * n, ";")
               .concat(
                 n,
                 '" dur="1.5s" repeatCount="indefinite" />\n      <animate attributeName="opacity" values="0;0.3;0" dur="1.5s" repeatCount="indefinite" />\n      '
@@ -1702,7 +1702,7 @@ var r = {
                 "values",
                 ""
                   .concat(m, ";")
-                  .concat(5 * m, ";")
+                  .concat(2 * m, ";")
                   .concat(m)
               ),
                 e.setAttribute("r", m),
