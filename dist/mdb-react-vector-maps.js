@@ -1502,7 +1502,7 @@ var r = {
               .concat(2 * n, ";")
               .concat(
                 n,
-                '" dur="1.5s" repeatCount="indefinite" />\n      <animate attributeName="opacity" values="0;0.3;0" dur="1.5s" repeatCount="indefinite" />\n      '
+                '" dur="4s" repeatCount="indefinite" />\n      <animate attributeName="opacity" values="0;0.3;0" dur="4s" repeatCount="indefinite" />\n      '
               ))),
           d
         );
